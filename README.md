@@ -14,4 +14,4 @@
 
 🌱 Currently exploring Deep Learning, Generative AI, and System Design
 
-✨ Code. Learn. Build. Repeat.
+✨ Code. Learn. Build. Repeat. gain.
