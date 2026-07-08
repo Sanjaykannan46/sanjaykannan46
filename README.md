@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Sanjay Kannan 👋
 
-<!--
-**Sanjaykannan46/sanjaykannan46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 AI & Machine Learning Student
 
-Here are some ideas to get you started:
+🧠 Building intelligent applications using Python and Computer Vision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Full Stack Web Developer
+
+🏋️ Creator of an AI Gym Companion that detects exercises, counts reps, and provides live feedback
+
+⚡ Experience with Electronics and Circuit-Based Projects
+
+🎨 Passionate about Animation, UI Design, and Creative Technology
+
+🌱 Currently exploring Deep Learning, Generative AI, and System Design
+
+✨ Code. Learn. Build. Repeat.
