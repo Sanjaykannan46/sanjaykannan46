@@ -26,10 +26,4 @@
 ![](https://streak-stats.demolab.com/?user=sanjaykannan46&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sanjaykannan46&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sanjaykannan46&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=sanjaykannan46&icon=2&color=13)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
