@@ -14,7 +14,7 @@
 
 🌱 Currently exploring Deep Learning, Generative AI, and System Design
 
-✨ Code. Learn. Build. Repeat. gain. repeat.
+✨ Code. Learn. Build. gain. repeat.
 
 ## 🌐 Socials:
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Sanjay Kannan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjaykannan1727@gmail.com) 
